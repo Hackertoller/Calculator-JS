@@ -1,0 +1,35 @@
+#box{
+	width : 500px;
+	height : 50px;
+	border : 1px solid #000000;
+	margin-left : 0%;
+}
+#box{
+	font-size : 40px;
+	
+}
+button{
+	width : 100px;
+	height: 50px;
+}
+#opreation{
+	color : green;
+	background-color : red;
+}
+#number_btn{
+	background-color : gray
+}
+#style_mores{
+	background-color : pink
+}
+.AllButtonsList{
+	border : 2px solid #000000;
+	width : 500px;
+	height : 300px;
+}
+.BoxNumber{
+	margin-top : 70px;
+}
+body{
+	background-color : gray;
+}
